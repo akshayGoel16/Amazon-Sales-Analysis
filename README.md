@@ -11,7 +11,7 @@ Features
 This project involves working with a CSV file containing Amazon sales data. Using this data, the project focuses on:
 Cleaning and preprocessing the dataset, Performing Exploratory Data Analysis (EDA), Visualizing trends like sales distribution & category performance, Generating actionable insights for sales strategy optimization.
 
-**Technologies Used**
+**Technologies Used**  
 Python 3.11.9  
 NumPy: For numerical operations.  
 Pandas: For data manipulation and analysis.  
