@@ -12,8 +12,8 @@ This project involves working with a CSV file containing Amazon sales data. Usin
 Cleaning and preprocessing the dataset, Performing Exploratory Data Analysis (EDA), Visualizing trends like sales distribution & category performance, Generating actionable insights for sales strategy optimization.
 
 **Technologies Used**
-Python 3.11.9
-NumPy: For numerical operations.
-Pandas: For data manipulation and analysis.
-Matplotlib: For data visualization.
-Seaborn: For statistical visualizations.
+Python 3.11.9  
+NumPy: For numerical operations.  
+Pandas: For data manipulation and analysis.  
+Matplotlib: For data visualization.  
+Seaborn: For statistical visualizations.  
